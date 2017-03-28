@@ -7,6 +7,8 @@ public class SayHello {
 
 		System.out.println("충돌될것인가 - 로컬");
 		System.out.println("edited at github.com");
+		
+		System.out.println("pull testing...............");
 	}
 
 }
